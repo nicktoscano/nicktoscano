@@ -1,8 +1,5 @@
 
 
-<!--
-**nicktoscano/nicktoscano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello!
 
 I am a machine learning engineer.  I currently work with Oracle. 
