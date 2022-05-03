@@ -8,3 +8,5 @@ I have had several positions in my career.  I have been a military intelligence 
 
 I enjoy learning about and practicing machine learning.  I also have a passion for spatial analysis and financial analysis.
 
+You may notice my profile pic is a bard.  The bard is my favorite character class.  In my free time, I enjoy spending time with my dogs and wrapping myself in fantasy worlds of DnD and the likes.  I enjoy reading, playing, and watching DnD and othe role playing games.  
+
